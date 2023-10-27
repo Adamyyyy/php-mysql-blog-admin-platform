@@ -50,7 +50,7 @@
     </article>
   </div>
   <div class="footer__copyright">
-    <small>Copyright &copy; 2022 EGATOR TUTORIALS</small>
+    <small>Copyright &copy; 2023 XXXX</small>
   </div>
 </footer>
 
