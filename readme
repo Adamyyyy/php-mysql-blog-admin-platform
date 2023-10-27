@@ -1,0 +1,9 @@
+1. Make sure XAMPP is correctly installed on your computer.
+
+2. clone the repository to your computer.
+
+3. Open XAMPP and start Apache and MySQL.
+
+4. Open your browser and go to localhost/phpmyadmin and create a new user 'adam' with password 'Qq2834262' and give it all privileges.
+
+5. Create a database 'blog', and upload the SQL dump (blog-tables.sql) to the database.
